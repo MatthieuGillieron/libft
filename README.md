@@ -1,4 +1,4 @@
-# LIBFT
+# LIBFT - Projet 42
 
 Le projet **Libft** à l'école 42 consiste à recréer une version personnalisée de la bibliothèque standard du C. Ce projet vous demande d'implémenter **34 fonctions** essentielles qui couvrent plusieurs domaines, notamment :
 
