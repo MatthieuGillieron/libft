@@ -1,6 +1,6 @@
 # LIBFT - Projet 42
 
-[![English](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./fr/README.md)
+[![English](https://img.shields.io/badge/English-blue.svg)](./README.md)   [![Français](https://img.shields.io/badge/Français-gray.svg)](./fr/README.md)
 
 Le projet **Libft** à l'école 42 consiste à recréer une version personnalisée de la bibliothèque standard du C. Ce projet vous demande d'implémenter **34 fonctions** essentielles qui couvrent plusieurs domaines, notamment :
 
