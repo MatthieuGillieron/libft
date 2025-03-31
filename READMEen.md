@@ -1,5 +1,7 @@
 
-# Libft - Custom C Library  
+[![English](https://img.shields.io/badge/English-blue.svg)](./READMEen.md)   [![Français](https://img.shields.io/badge/Français-gray.svg)](./README.md)
+
+# Libft - 42 Project  
 
 The project involves reimplementing **34 essential functions** that are typically found in the C standard library. This includes functions for:  
 
