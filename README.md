@@ -1,6 +1,6 @@
 # LIBFT - Projet 42
 
-[![English](https://img.shields.io/badge/English-blue.svg)](./ENREADME.md)   [![Français](https://img.shields.io/badge/Français-gray.svg)](./README.md)
+[![English](https://img.shields.io/badge/English-blue.svg)](./READMEen.md)   [![Français](https://img.shields.io/badge/Français-gray.svg)](./README.md)
 
 Le projet consiste à réimplémenter 34 fonctions essentielles normalement présentes dans la bibliothèque standard du C. Cela inclut des fonctions pour :
 
